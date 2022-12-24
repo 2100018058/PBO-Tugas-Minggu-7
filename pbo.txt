@@ -1,0 +1,16 @@
+
+
+Receipt
+
+Hari Rabu, 3 Okt 2022
+14:20
+id Dokter            : 1234
+nama Dokter          : rafi
+id Perawat           : 1231
+nama Perawat         : irfan
+id pasien            : 1211
+nama pasien          : aqdillah
+alamat pasien        : jogja
+berat badan pasien   : 12
+jenis kelamin pasien : pria
+Total Harga          : Rp 230.000,00
